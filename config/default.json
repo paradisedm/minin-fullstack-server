@@ -2,5 +2,5 @@
 	"port": 5000,
 	"jwtSecret": "Secret123",
 	"mongoUri": "mongodb+srv://paradisedmx_db_user:eHQ8D5269nAWU9wj@cluster0.necn0nd.mongodb.net/",
-	"baseUrl": "http://localhost:5000"
+	"baseUrl": "https://minin-fullstack-server.onrender.com"
 }
